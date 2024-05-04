@@ -1,6 +1,6 @@
 # Titanic Data Analysis
 
-This repository contains a Jupyter Notebook (`titanic_data_analysis.ipynb`) that showcases a Python data analysis project focused on exploring a synthetic dataset reminiscent of the Titanic dataset. The project employs data cleaning, exploratory data analysis (EDA), and visualization techniques to uncover insights into various factors influencing survival rates aboard the Titanic.
+This repository contains a Jupyter Notebook [`titanic_data_analysis.ipynb`](titanic_data_analysis.ipynb) that showcases a Python data analysis project focused on exploring a synthetic dataset reminiscent of the Titanic dataset. The project employs data cleaning, exploratory data analysis (EDA), and visualization techniques to uncover insights into various factors influencing survival rates aboard the Titanic.
 
 ## Overview
 
